@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya 👋</h1>
 
 <p align="center">
-  <em>Full-Stack Developer • MERN Stack • Final-Year CSE Student</em>
+  <em>Full-Stack Developer • MERN Stack</em>
 </p>
 
 <p align="center">
@@ -56,23 +56,6 @@
 <br>
 
 </div>
-
----
-
-### 🏆 GitHub Trophies & Stats
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adi-222&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Adi-222 Trophies" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adi-222&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-222&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
