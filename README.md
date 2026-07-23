@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya 👋</h1>
 
 <p align="center">
-  Full-Stack Developer • MERN Stack • Final-Year CSE Student
+  Full-Stack Developer • MERN Stack 
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🎓 B.Tech CSE student (2022–2026)
 - 💼 Full Stack development experience — internship + freelance projects
 - 🌐 I build websites, landing pages, and web apps for clients as a freelancer
-- 🛠️ Comfortable across the stack — frontend, backend integrations, and payments (Stripe)
+- 🛠️ Comfortable across the stack — frontend, backend integrations, and payments
 - 📈 Also explore algorithmic trading tools & competitive programming on the side
 
 ---
@@ -75,3 +75,4 @@
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Adi-222">Adi-222</a></i></p>
+# Readme
